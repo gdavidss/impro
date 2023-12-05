@@ -7,22 +7,9 @@ permalink: /
 
 - [[STATUS]]
 - [[SPONTANEITY]]
-- 1. Page Title: Dominance and Submission
-- Hyperlinks: STATUS
-  
-  2. Page Title: Freeing Creativity
-- Hyperlinks: SPONTANEITY
-  
-  3. Page Title: Crafting Stories
-- Hyperlinks: NARRATIVE
-  
-  4. Page Title: Transformation and Identity
-- Hyperlinks: MASKS AND TRANCE
-  
-  5. Page Title: Art of Performance
-- Hyperlinks: SKILLS
-  
-  6. Page Title: The Essence of Improv
+- [[NARRATIVE]]
+- [[MASKS AND TRANCE]]
+- 6. Page Title: The Essence of Improv
 - Hyperlinks: The Essence of Improv, SPONTANEITY, NARRATIVE
   
   7. Page Title: Depths of Trance

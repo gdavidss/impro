@@ -1,0 +1,4 @@
+---
+---
+
+- [[SPONTANEITY]] + [[NARRATIVE]]

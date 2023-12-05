@@ -1,4 +1,4 @@
-title:               'pensamento sistêmico'               
+title:               'impro'               
 include: ['_pages', '_includes/notes_graph.json']
 exclude: ['_notes/journals']
 # You may need to change the base URL depending on your deploy configuration.
