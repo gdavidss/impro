@@ -1,0 +1,20 @@
+#dark-mode-btn {
+    transition: 1s ease-in-out;
+    filter: var(--filter-btn);
+    content: var(--dark-mode-img);
+    cursor: pointer;
+}
+  
+#about-btn {
+    transition: 1s ease-in-out;
+    margin-right: 15px;
+    filter: var(--filter-btn); 
+    cursor: pointer;
+}
+
+#restart-btn {
+    margin-left: 15px;
+    height:28px;
+    filter: var(--filter-btn);
+    cursor: pointer;
+}

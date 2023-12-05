@@ -1,0 +1,274 @@
+$border-radius: 4px;
+$transition: 0.3s ease-out;
+
+@font-face {
+  font-family: "mono";
+  src: url("../fonts/gui.otf");
+  font-weight: bold;
+  font-style: normal;
+}
+
+$border-radius: 4px;
+$transition: 0.3s ease-out;
+
+$border-radius: 4px;
+$transition: 0.3s ease-out;
+
+$font-family: "mono";
+
+body {
+  // The correct way would be to put this into :root and html[data-theme="dark"]... but i am lazy
+  -—color-primary: #32322f;
+  --color-text: #32322f;
+  --color-a: blue;
+  --color-subtext: hsl(0, 0%, 75%);
+  --color-border: #f6f5f1;
+  --color-box-background: #f6f5f1; 
+  --color-background: #f6f5f1;
+
+  --graph-background: #f6f5f1;
+  --color-node: black;
+  --text-node: black;
+  --graph-wrapper-shadow: 0px 0px 26px -12px #4a4a46;
+ 
+  --color-hover-a: purple;
+  --color-focus: purple; 
+  --color-active: red;//#960462;
+  --color-quote: hsl(50, 24%, 90%); 
+  --opacity-inactive: 0.2;
+
+  --filter-btn: none;
+  --dark-mode-img: url("../assets/sun.svg");
+
+  --progress-bar-border-color: black;
+  --progress-bar-color: black;
+  
+  box-sizing: content-box;
+  font-family: $font-family;
+  background-color: var(--color-background);
+  color: var(--color-text);
+  margin: 0 auto;
+  line-height: 1.7;
+  letter-spacing:0.2px;   
+  padding: 4vh 6vw;
+  overflow-x: hidden;
+  font-size: 22px;
+  max-width: 63em;
+ 
+  &.dark {
+    -—color-primary: white;
+    --color-text: white;
+    --color-a: red;
+    --color-subtext: grey;
+    --color-border: black;
+    --color-box-background: rgb(0, 0, 0);
+    --color-background: rgb(0, 0, 0);
+    
+  
+    --graph-background: black;
+    --color-node: white;
+    --text-node: white;
+    --graph-wrapper-shadow: 0px 0px 26px -8px #ffffff;
+    
+    --color-hover-a: purple;
+    --color-focus: purple;
+    --color-active: red;
+    --color-quote: #2b2b2bd3; 
+    --opacity-inactive: 0.3;
+
+    --filter-btn: invert(1);
+    --dark-mode-img: url("../assets/moon.svg");
+
+    --progress-bar-border-color: white;
+    --progress-bar-color: white;
+  }
+  
+  @media (min-width: 820px) {
+    font-size: 22px;
+  }
+}
+
+.dark-transition {
+  transition: $transition;
+}
+
+time {
+  display: block;
+  margin: 0.5em 0 1em;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  margin: 0 auto;
+  max-height: 75vh;
+  border-radius: $border-radius;
+}
+
+img[src*='svg'] {
+  filter: var(--filter-btn);
+  /* styles for img tags with src attribute that contains "svg" anywhere */
+}
+
+blockquote {
+  padding: 1.5em;
+  margin: 0;
+  background: var(--color-quote);
+  font-size: 0.88em;
+  border-radius: $border-radius;
+
+  p {
+    margin: 0;
+  }
+}
+
+hr {
+  width: 100%;
+  border: 0;
+  background: var(--color-background); 
+  height: 1px;
+  margin: 1.5em 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  line-height: 1.3;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+.logo-link { 
+  &:hover {
+    transition: none;
+    border: none;
+    border-radius: none;
+  }
+}
+
+a {
+  color: var(--color-a);
+  transition: background 300ms;
+  padding: 0 0.1em;
+  text-decoration: none;
+  &:hover {
+    //background: #fffaf1;
+    transition: .3s;
+    border: 3px solid var(--color-text);
+    border-radius: 8px;
+  }
+  &:after {
+    position: relative;
+    top: -0.5em;
+    content: "↗";
+    font-size: 0.7em;
+    color: var(--color-primary);
+  }
+  &.internal-link:after,
+  &.footnote:after,
+  &.reversefootnote:after {
+    color: var(--color-a);
+    content: "";
+  }
+}
+
+*:focus {
+  color: purple !important;
+}
+
+nav {
+  margin: 1em 0 3em;
+}
+
+#graph-wrapper {
+  position: relative; /* make #graph-wrapper a positioning context */
+}
+
+#graph-wrapper > #restart-graph-btn {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  cursor: pointer;
+} 
+
+#garden-title {
+  font-size:20px;   
+  &:hover {
+    border: none;
+    transition: none;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  #garden-title {
+    display: none;
+  }
+}
+
+#article-container {
+  max-width: 752px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+ul {
+  display: block;
+  list-style-type: disc;
+  margin-block-start: 0em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  padding-inline-start: 40px;
+}
+
+#notes-entry-container {
+  display: grid;
+  vertical-align: left;
+  grid-template-areas:
+    "content";
+
+  @media (min-width: 700px) {
+    grid-template-columns: 4fr;
+    grid-template-areas: "content";
+  }
+}
+
+/* 
+this was for backlinks (notas conectadas), but it's been deactivated
+.backlink-box {
+  color:#545454;
+  background: $color-box-background;
+  padding: 1em;
+  border-radius: $border-radius;
+} */
+
+code {
+  background: #f5f5f5;
+  padding: 0.1em 0.2em;
+  border-radius: 4px;
+}
+
+.invalid-link {
+  color: #ff0909;
+  cursor: help;
+  padding: 0 0.1em;
+}
+
+.invalid-link-brackets {
+  color: red;
+  cursor: help;
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+  float:left;
+}
+
+.logo {
+  height: 30px;
+  margin-right: 10px;
+}

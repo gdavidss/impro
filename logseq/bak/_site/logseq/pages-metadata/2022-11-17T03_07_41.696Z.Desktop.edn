@@ -1,0 +1,380 @@
+[{:block/name "a",
+  :block/created-at 1665857415914,
+  :block/updated-at 1665857415914}
+ {:block/name "a note about cats",
+  :block/created-at 1665104345057,
+  :block/updated-at 1665104345057}
+ {:block/name
+  "a note about cats|link to the note about cats using the note title",
+  :block/created-at 1665104345053,
+  :block/updated-at 1665104345053}
+ {:block/name "aaaa",
+  :block/created-at 1665181436596,
+  :block/updated-at 1665181436596}
+ {:block/name "about",
+  :block/created-at 1665857415902,
+  :block/updated-at 1665857415902}
+ {:block/name "algoritmos genéticos",
+  :block/created-at 1665857426525,
+  :block/updated-at 1665857426525}
+ {:block/name "aprendizado de máquina",
+  :block/created-at 1665857426529,
+  :block/updated-at 1665857426529}
+ {:block/name "atratores",
+  :block/created-at 1665857426513,
+  :block/updated-at 1665857426513}
+ {:block/name "auto-organização",
+  :block/created-at 1665857426534,
+  :block/updated-at 1668109764373}
+ {:block/name "autopoiese",
+  :block/created-at 1665857426602,
+  :block/updated-at 1665857426602}
+ {:block/name "autoreferência",
+  :block/created-at 1665857426633,
+  :block/updated-at 1665857426633}
+ {:block/name "b",
+  :block/created-at 1665104786577,
+  :block/updated-at 1665104786577}
+ {:block/name "c",
+  :block/created-at 1665104786577,
+  :block/updated-at 1665104786577}
+ {:block/name "calisthenics — recommended routine",
+  :block/created-at 1666804941897,
+  :block/updated-at 1666804941897}
+ {:block/name "canceled",
+  :block/created-at 1665104786577,
+  :block/updated-at 1665104786577}
+ {:block/name "cancelled",
+  :block/created-at 1665104786577,
+  :block/updated-at 1665104786577}
+ {:block/name "caos",
+  :block/created-at 1665857426627,
+  :block/updated-at 1665857426627}
+ {:block/name "caos vs complexidade",
+  :block/created-at 1666806382114,
+  :block/updated-at 1666812098260}
+ {:block/name "card",
+  :block/created-at 1665104786577,
+  :block/updated-at 1665104786577}
+ {:block/name "cats",
+  :block/created-at 1665104345056,
+  :block/updated-at 1665104345056}
+ {:block/name
+  "cats|link to the note about cats using the note's filename",
+  :block/created-at 1665104345056,
+  :block/updated-at 1665104345056}
+ {:block/name "chaos",
+  :block/created-at 1665276994183,
+  :block/updated-at 1665276994183}
+ {:block/name "cibernética",
+  :block/created-at 1665857426644,
+  :block/updated-at 1665857426644}
+ {:block/name "comece com um brinquedo",
+  :block/created-at 1665361563862,
+  :block/updated-at 1665361563862}
+ {:block/name "complexidade",
+  :block/created-at 1665857426606,
+  :block/updated-at 1667496439247}
+ {:block/name "complexidade de kolmogorov",
+  :block/created-at 1666808938902,
+  :block/updated-at 1666808938902}
+ {:block/name "comportamento coletivo",
+  :block/created-at 1665857426612,
+  :block/updated-at 1665857426612}
+ {:block/name "consciência",
+  :block/created-at 1665857426630,
+  :block/updated-at 1665857426630}
+ {:block/name "consciência coletiva",
+  :block/created-at 1665857426611,
+  :block/updated-at 1665857426611}
+ {:block/name "consistency",
+  :block/created-at 1665104345023,
+  :block/updated-at 1665104345023}
+ {:block/name "consistency is key",
+  :block/created-at 1665104345018,
+  :block/updated-at 1665104345018}
+ {:block/name "contents",
+  :block/created-at 1665104786577,
+  :block/updated-at 1665104786577}
+ {:block/name "dinâmica não-linear",
+  :block/created-at 1665857426658,
+  :block/updated-at 1665857426658}
+ {:block/name "documentos pessoais",
+  :block/created-at 1665856335945,
+  :block/updated-at 1665856335945}
+ {:block/name "doing",
+  :block/created-at 1665104786577,
+  :block/updated-at 1665104786577}
+ {:block/name "done",
+  :block/created-at 1665104786577,
+  :block/updated-at 1665104786577}
+ {:block/name "draws/2022-11-10-14-17-49.excalidraw",
+  :block/created-at 1668100792101,
+  :block/updated-at 1668100792101}
+ {:block/name "emergência",
+  :block/created-at 1665857426533,
+  :block/updated-at 1665857426533}
+ {:block/name "entropia",
+  :block/created-at 1665857426624,
+  :block/updated-at 1665857426624}
+ {:block/name "escala",
+  :block/created-at 1665857426616,
+  :block/updated-at 1665857426616}
+ {:block/name "estrutura",
+  :block/created-at 1665857426620,
+  :block/updated-at 1665857426620}
+ {:block/name "evolução e adaptação",
+  :block/created-at 1665857426755,
+  :block/updated-at 1665857426755}
+ {:block/name "favorites",
+  :block/created-at 1665104786577,
+  :block/updated-at 1665104786577}
+ {:block/name "feedback",
+  :block/created-at 1665857426643,
+  :block/updated-at 1665857426643}
+ {:block/name "formação de padrão",
+  :block/created-at 1665361035021,
+  :block/updated-at 1665361035021}
+ {:block/name "home",
+  :block/created-at 1665858473150,
+  :block/updated-at 1668100108407}
+ {:block/name "homedefault",
+  :block/created-at 1665104345197,
+  :block/updated-at 1665106293555}
+ {:block/name "in-progress",
+  :block/created-at 1665104786577,
+  :block/updated-at 1665104786577}
+ {:block/name "informação",
+  :block/created-at 1665857426742,
+  :block/updated-at 1665857426742}
+ {:block/name "inteligência artificial",
+  :block/created-at 1665857426734,
+  :block/updated-at 1665857426734}
+ {:block/name "jardim digital",
+  :block/created-at 1665104345187,
+  :block/updated-at 1665104345187}
+ {:block/name "later",
+  :block/created-at 1665104786577,
+  :block/updated-at 1665104786577}
+ {:block/name "layout",
+  :block/created-at 1665104345196,
+  :block/updated-at 1665104345196}
+ {:block/name "lidando com complexidade",
+  :block/created-at 1667496439247,
+  :block/updated-at 1667501135607}
+ {:block/name "limitação da racionalidade",
+  :block/created-at 1665857426747,
+  :block/updated-at 1665857426747}
+ {:block/name "loving kindness-meditation",
+  :block/created-at 1668100463333,
+  :block/updated-at 1668100463333}
+ {:block/name "meta",
+  :block/created-at 1665170278561,
+  :block/updated-at 1665170278561}
+ {:block/name "metacognition",
+  :block/created-at 1665276993283,
+  :block/updated-at 1665276993283}
+ {:block/name "metacognição",
+  :block/created-at 1665857426728,
+  :block/updated-at 1667843164962}
+ {:block/name "mit license",
+  :block/created-at 1665104345124,
+  :block/updated-at 1665104345124}
+ {:block/name "move your body every day",
+  :block/created-at 1665104345023,
+  :block/updated-at 1665104345023}
+ {:block/name "notes that do not exist",
+  :block/created-at 1665104345055,
+  :block/updated-at 1665104345055}
+ {:block/name "nov 10th, 2022",
+  :block/created-at 1668100085936,
+  :block/updated-at 1668100085936}
+ {:block/name "nov 11th, 2022",
+  :block/created-at 1668173156308,
+  :block/updated-at 1668173156308}
+ {:block/name "nov 12th, 2022",
+  :block/created-at 1668222001193,
+  :block/updated-at 1668222001193}
+ {:block/name "nov 13th, 2022",
+  :block/created-at 1668309422589,
+  :block/updated-at 1668309422589}
+ {:block/name "nov 14th, 2022",
+  :block/created-at 1668396022967,
+  :block/updated-at 1668475488435}
+ {:block/name "nov 15th, 2022",
+  :block/created-at 1668553192134,
+  :block/updated-at 1668553192134}
+ {:block/name "nov 2nd, 2022",
+  :block/created-at 1667433513457,
+  :block/updated-at 1667433513457}
+ {:block/name "nov 3rd, 2022",
+  :block/created-at 1667444612335,
+  :block/updated-at 1667444612335}
+ {:block/name "nov 6th, 2022",
+  :block/created-at 1667744633725,
+  :block/updated-at 1667744633725}
+ {:block/name "nov 7th, 2022",
+  :block/created-at 1667842379718,
+  :block/updated-at 1667842379718}
+ {:block/name "now",
+  :block/created-at 1665104786577,
+  :block/updated-at 1665104786577}
+ {:block/name "nutrition",
+  :block/created-at 1666804962330,
+  :block/updated-at 1666804962330}
+ {:block/name "oct 10th, 2022",
+  :block/created-at 1665370802423,
+  :block/updated-at 1665370802423}
+ {:block/name "oct 11th, 2022",
+  :block/created-at 1665457230259,
+  :block/updated-at 1665457230259}
+ {:block/name "oct 12th, 2022",
+  :block/created-at 1665607656904,
+  :block/updated-at 1665607656904}
+ {:block/name "oct 13th, 2022",
+  :block/created-at 1665635740593,
+  :block/updated-at 1665635740593}
+ {:block/name "oct 15th, 2022",
+  :block/created-at 1665856238089,
+  :block/updated-at 1665871777542}
+ {:block/name "oct 17th, 2022",
+  :block/created-at 1666018393596,
+  :block/updated-at 1666018393596}
+ {:block/name "oct 18th, 2022",
+  :block/created-at 1666101599960,
+  :block/updated-at 1666117106870}
+ {:block/name "oct 25th, 2022",
+  :block/created-at 1666730459973,
+  :block/updated-at 1666730459973}
+ {:block/name "oct 26th, 2022",
+  :block/created-at 1666804921673,
+  :block/updated-at 1666804921673}
+ {:block/name "oct 27th, 2022",
+  :block/created-at 1666839631892,
+  :block/updated-at 1666839631892}
+ {:block/name "oct 28th, 2022",
+  :block/created-at 1666926028373,
+  :block/updated-at 1666926028373}
+ {:block/name "oct 29th, 2022",
+  :block/created-at 1667072077698,
+  :block/updated-at 1667072077698}
+ {:block/name "oct 30th, 2022",
+  :block/created-at 1667157486329,
+  :block/updated-at 1667157486329}
+ {:block/name "oct 31st, 2022",
+  :block/created-at 1667185202671,
+  :block/updated-at 1667185202671}
+ {:block/name "oct 7th, 2022",
+  :block/created-at 1665111603249,
+  :block/updated-at 1665170446293}
+ {:block/name "oct 8th, 2022",
+  :block/created-at 1665198003759,
+  :block/updated-at 1665278639449}
+ {:block/name "oct 9th, 2022",
+  :block/created-at 1665284848911,
+  :block/updated-at 1665319750687}
+ {:block/name "pensamento sistêmico",
+  :block/created-at 1665857426643,
+  :block/updated-at 1665857426643}
+ {:block/name "permalink",
+  :block/created-at 1665104345196,
+  :block/updated-at 1665104345196}
+ {:block/name "planejamento semana — oct 23th, 2022",
+  :block/created-at 1666804932634,
+  :block/updated-at 1666804932634}
+ {:block/name "planejamento semana — oct 30th, 2022",
+  :block/created-at 1668100465058,
+  :block/updated-at 1668100465058}
+ {:block/name "project planning",
+  :block/created-at 1668100108406,
+  :block/updated-at 1668211470336}
+ {:block/name "protocolos",
+  :block/created-at 1667496518336,
+  :block/updated-at 1667496518336}
+ {:block/name "readme",
+  :block/created-at 1665104345124,
+  :block/updated-at 1665104345124}
+ {:block/name "rede",
+  :block/created-at 1667075867631,
+  :block/updated-at 1667503017298}
+ {:block/name "rede neural artificial",
+  :block/created-at 1665857426721,
+  :block/updated-at 1665857426721}
+ {:block/name "rede sem escala",
+  :block/created-at 1665857426702,
+  :block/updated-at 1665857426702}
+ {:block/name "redes",
+  :block/created-at 1665857426714,
+  :block/updated-at 1665857426714}
+ {:block/name "redes adaptivas",
+  :block/created-at 1665857426706,
+  :block/updated-at 1665857426706}
+ {:block/name "redes dinâmicas",
+  :block/created-at 1665857426714,
+  :block/updated-at 1665857426714}
+ {:block/name "sincronia",
+  :block/created-at 1665857426611,
+  :block/updated-at 1665857426611}
+ {:block/name "sistema",
+  :block/created-at 1666807145618,
+  :block/updated-at 1666807145618}
+ {:block/name "sistemas",
+  :block/created-at 1665857426644,
+  :block/updated-at 1665857426644}
+ {:block/name "sistemas complexos",
+  :block/created-at 1667075718998,
+  :block/updated-at 1667496391783}
+ {:block/name "teoria dos jogos",
+  :block/created-at 1665857426804,
+  :block/updated-at 1665857426804}
+ {:block/name "test.com",
+  :block/created-at 1668101742387,
+  :block/updated-at 1668101742387}
+ {:block/name "there is no note that matches this link",
+  :block/created-at 1665104345054,
+  :block/updated-at 1665104345054}
+ {:block/name "tigers",
+  :block/created-at 1665104345055,
+  :block/updated-at 1665104345055}
+ {:block/name "to",
+  :block/created-at 1668100365985,
+  :block/updated-at 1668100365985}
+ {:block/name "to-dos",
+  :block/created-at 1667072079815,
+  :block/updated-at 1667072079815}
+ {:block/name "todo",
+  :block/created-at 1665104786577,
+  :block/updated-at 1665104786577}
+ {:block/name "todos",
+  :block/created-at 1665361553519,
+  :block/updated-at 1668100395567}
+ {:block/name "tools for thought",
+  :block/created-at 1668100462141,
+  :block/updated-at 1668100462141}
+ {:block/name "variedade",
+  :block/created-at 1666806737854,
+  :block/updated-at 1666806737854}
+ {:block/name "wait",
+  :block/created-at 1665104786577,
+  :block/updated-at 1665104786577}
+ {:block/name "waiting",
+  :block/created-at 1665104786577,
+  :block/updated-at 1665104786577}
+ {:block/name "your first note",
+  :block/created-at 1665104345054,
+  :block/updated-at 1665104345054}
+ {:block/name "your first note|first note",
+  :block/created-at 1665104345017,
+  :block/updated-at 1665104345017}
+ {:block/name "your first seed",
+  :block/created-at 1665104345057,
+  :block/updated-at 1665104345057}
+ {:block/name "your-first note",
+  :block/created-at 1665104345054,
+  :block/updated-at 1665104345054}
+ {:block/name "your-first-note",
+  :block/created-at 1665104345054,
+  :block/updated-at 1665104345054}
+ {:block/name "안녕하세요",
+  :block/created-at 1665104345107, 
+  :block/updated-at 1665104345107}]

@@ -1,0 +1,10 @@
+<div style="opacity: 0; display: none;" id='tooltip-wrapper'>
+  <div id='tooltip-content'>
+  </div>
+</div>
+
+<iframe style="display: none; height: 0; width: 0;" id='link-preview-iframe' src="">
+</iframe>
+
+<script src="../js/LinkPreviews.js"></script>
+<script>document.querySelectorAll('{{ include.wrapperQuerySelector }} a').forEach(setupListeners);</script>
